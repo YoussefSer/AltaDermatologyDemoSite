@@ -1,2 +1,2 @@
 :HL["/AltaDermatologyDemoSite/_next/static/chunks/1ywlt9rmcppx8.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":[]},"prefetchHints":4144,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}}}},"staleTime":300,"buildId":"aALKTH1IH7ZVkEYFSgPv9"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"locale","param":{"type":"d","key":"es","siblings":[]},"prefetchHints":4144,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}}}},"staleTime":300,"buildId":"Wr1i1rFEQGnh9VOQojYm5"}
